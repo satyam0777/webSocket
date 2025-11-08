@@ -1,6 +1,6 @@
 # Complete Setup & Run Guide
 
-## Quick Start (5 minutes)
+## Quick Start 
 
 ### Prerequisites
 - Node.js v14+ installed
